@@ -19,6 +19,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### TPAMI
 
+* **Muhammad Ghifary**, David Balduzzi, W. Bastiaan Kleijn, Mengjie Zhang, *Scatter Component Analysis: A Unified Framework for Domain Adaptation and Domain Generalization*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7542175)] [[Arxiv](https://arxiv.org/abs/1510.04373)]
 * **Christian Siagian**, Laurent Itti, *Rapid Biologically-Inspired Scene Classification Using Features Shared with Visual Attention*, 2007 [[Paper](https://ieeexplore.ieee.org/document/4042704)]
 
 ### TIP
