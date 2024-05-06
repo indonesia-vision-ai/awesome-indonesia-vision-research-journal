@@ -23,6 +23,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### TIP
 
+* Muhammad Zaigham Zaheer, Jin Ha Lee, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *Stabilizing Adversarially Learned One-Class Novelty Detection Using Pseudo Anomalies*, 2022 [[Paper](https://ieeexplore.ieee.org/document/9887825)] [[Arxiv](https://arxiv.org/abs/2203.13716)]
 * Jen-Hui Chuang, Chih-Hui Ho, **Ardian Umam**, HsinYi Chen, Jenq-Neng Hwang, Tai-An Chen, *Geometry-Based Camera Calibration Using Closed-Form Solution of Principal Line*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9318550/)]
 * Liangchen Liu, Feiping Nie, **Arnold Wiliem**, Zhihui Li, Teng Zhang, Brian C. Lovell, *Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8353196)]
 * Jun Young Cheong, **Christian Simon**, Chang-Su Kim, In Kyu Park, *Reflection Removal Under Fast Forward Camera Motion*, 2017 [[Paper](https://ieeexplore.ieee.org/document/8024024)]
@@ -35,9 +36,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### Pattern Recognition
 
-* Liangchen Liu, **Arnold Wiliem**, Shaokang Chen, Brian C. Lovell, *What is the best way for extracting meaningful attributes from pictures?*, 2017 [[Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2016.10.034) [Arxiv](https://arxiv.org/abs/1610.04957)]
-* Kun Zhao, Azadeh Alavi, **Arnold Wiliem**, Brian C. Lovell, *Efficient clustering on Riemannian manifolds: A kernelised random projection approach*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003489) [Arxiv](https://arxiv.org/abs/1509.05536)]
-* **Arnold Wiliem**, Conrad Sanderson, Yongkang Wong, Peter Hobson, Rodney F. Minchin, Brian C. Lovell, *Automatic classification of Human Epithelial type 2 cell Indirect Immunofluorescence images using Cell Pyramid Matching*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031300424X) [Arxiv](https://arxiv.org/abs/1403.3780)]
+* Liangchen Liu, **Arnold Wiliem**, Shaokang Chen, Brian C. Lovell, *What is the best way for extracting meaningful attributes from pictures?*, 2017 [[Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2016.10.034)] [[Arxiv](https://arxiv.org/abs/1610.04957)]
+* Kun Zhao, Azadeh Alavi, **Arnold Wiliem**, Brian C. Lovell, *Efficient clustering on Riemannian manifolds: A kernelised random projection approach*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003489)] [[Arxiv](https://arxiv.org/abs/1509.05536)]
+* **Arnold Wiliem**, Conrad Sanderson, Yongkang Wong, Peter Hobson, Rodney F. Minchin, Brian C. Lovell, *Automatic classification of Human Epithelial type 2 cell Indirect Immunofluorescence images using Cell Pyramid Matching*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031300424X)] [[Arxiv](https://arxiv.org/abs/1403.3780)]
 * Yan Yang, **Arnold Wiliem**, Azadeh Alavi, Brian C. Lovell, Peter Hobson, *Visual learning and classification of human epithelial type 2 cell images through spontaneous activity patterns*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004238)]
 * Masoud Faraki, Mehrtash Tafazzoli Harandi, **Arnold Wiliem**, Brian C. Lovell, *Fisher tensors for classifying human epithelial cells*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004214)]
 * **Indriyati Atmosukarto**, Katarzyna Wilamowska, Carrie Heike, Linda G. Shapiro, *3D object classification using salient point patterns with application to craniofacial research*, 2010 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320309004178)]
