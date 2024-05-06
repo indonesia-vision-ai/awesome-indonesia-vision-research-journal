@@ -30,6 +30,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 * Muhammad Zaigham Zaheer, Jin Ha Lee, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *Stabilizing Adversarially Learned One-Class Novelty Detection Using Pseudo Anomalies*, 2022 [[Paper](https://ieeexplore.ieee.org/document/9887825)] [[Arxiv](https://arxiv.org/abs/2203.13716)]
 * Jen-Hui Chuang, Chih-Hui Ho, **Ardian Umam**, HsinYi Chen, Jenq-Neng Hwang, Tai-An Chen, *Geometry-Based Camera Calibration Using Closed-Form Solution of Principal Line*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9318550/)]
+* **Rizard Renanda Adhi Pramono**, Wen-Hsien Fang, Yie-Tarng Chen, *Relational Reasoning for Group Activity Recognition via Self-Attention Augmented Conditional Random Field*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9547058)]
 * Liangchen Liu, Feiping Nie, **Arnold Wiliem**, Zhihui Li, Teng Zhang, Brian C. Lovell, *Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8353196)]
 * Jun Young Cheong, **Christian Simon**, Chang-Su Kim, In Kyu Park, *Reflection Removal Under Fast Forward Camera Motion*, 2017 [[Paper](https://ieeexplore.ieee.org/document/8024024)]
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Quantitative Analysis of Human-Model Agreement in Visual Saliency Modeling: A Comparative Study*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6253254)]
