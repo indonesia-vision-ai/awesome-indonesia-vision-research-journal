@@ -5,3 +5,4 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Arnold Wiliem [[Profile Page](https://sites.google.com/view/arnoldwiliem/home)] [[Google Scholar](https://scholar.google.com/citations?user=plbn8HYAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/94/6882.html)]
 - Christian Siagian [[Profile Page](http://ilab.usc.edu/siagian/)] [[Google Scholar](https://scholar.google.com/citations?user=HPbXCwIAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/35/4742.html)]
 - Christian Simon [[Profile Page](https://chrysts.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/10/3925.html)]
+- Dicky Nauli Sihite [[Google Scholar](https://scholar.google.com/citations?user=h-OIAIAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/116/6482.html)]
