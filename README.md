@@ -29,6 +29,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Shaodi You, **Robby T. Tan**, Rei Kawakami, Yasuhiro Mukaigawa, Katsushi Ikeuchi, *Adherent Raindrop Modeling, Detectionand Removal in Video*, 2016 [[Paper](https://ieeexplore.ieee.org/document/7299675)]
 * **Novi Quadrianto**, Zoubin Ghahramani, *A Very Simple Safe-Bayesian Random Forest*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6920043)]
 * Sébastien Bratières, Novi Quadrianto, Zoubin Ghahramani, *GPstruct: Bayesian Structured Prediction Using Gaussian Processes*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6942234)]
+* Alex Yong Sang Chia, Deepu Rajan, Maylor Karhang Leung, **Susanto Rahardja**, *Object Recognition by Discriminative Combinations of Line Segments, Ellipses, and Appearance Features*, 2012 [[Paper](https://ieeexplore.ieee.org/document/6072217)]
 * **Novi Quadrianto**, Alexander J. Smola, Le Song, Tinne Tuytelaars, *Kernelized Sorting*, 2010 [[Paper](https://ieeexplore.ieee.org/document/5342424)]
 * **Christian Siagian**, Laurent Itti, *Rapid Biologically-Inspired Scene Classification Using Features Shared with Visual Attention*, 2007 [[Paper](https://ieeexplore.ieee.org/document/4042704)]
 * **Robby T. Tan**, Katsushi Ikeuchi, *Separating Reflection Components of Textured Surfaces Using a Single Image*, 2005 [[Paper](https://ieeexplore.ieee.org/document/1374865)]
@@ -40,11 +41,17 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Wending Yan, Lu Xu, Wenhan Yang, **Robby T. Tan**, *Feature-Aligned Video Raindrop Removal With Temporal Constraints*, 2022 [[Paper](https://ieeexplore.ieee.org/document/9769883)] [[Arxiv](https://arxiv.org/abs/2205.14574)]
 * Jen-Hui Chuang, Chih-Hui Ho, **Ardian Umam**, HsinYi Chen, Jenq-Neng Hwang, Tai-An Chen, *Geometry-Based Camera Calibration Using Closed-Form Solution of Principal Line*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9318550/)]
 * **Rizard Renanda Adhi Pramono**, Wen-Hsien Fang, Yie-Tarng Chen, *Relational Reasoning for Group Activity Recognition via Self-Attention Augmented Conditional Random Field*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9547058)]
+* ShuMin Liu, Jiajia Chen, Ye Ai, **Susanto Rahardja**, *An Optimized Quantization Constraints Set for Image Restoration and its GPU Implementation*, 2020 [[Paper](https://ieeexplore.ieee.org/document/9075407)]
 * Liangchen Liu, Feiping Nie, **Arnold Wiliem**, Zhihui Li, Teng Zhang, Brian C. Lovell, *Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8353196)]
 * Jun Young Cheong, **Christian Simon**, Chang-Su Kim, In Kyu Park, *Reflection Removal Under Fast Forward Camera Motion*, 2017 [[Paper](https://ieeexplore.ieee.org/document/8024024)]
 * Yu Li, **Robby T. Tan**, Xiaojie Guo, Jiangbo Lu, Michael S. Brown, *Single Image Rain Streak Decomposition Using Layer Priors*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7934436)]
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Quantitative Analysis of Human-Model Agreement in Visual Saliency Modeling: A Comparative Study*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6253254)]
-
+* Hui Li Tan, Zhengguo Li, Yih Han Tan, **Susanto Rahardja**, Chuohao Yeo, *A Perceptually Relevant MSE-Based Image Quality Metric*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6562752)]
+* Jinghong Zheng, Zhengguo Li, Zijian Zhu, Shiqian Wu, **Susanto Rahardja**, *Hybrid Patching for a Sequence of Differently Exposed Images With Moving Objects*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6607144)]
+* Shoulie Xie, **Susanto Rahardja**, *Alternating Direction Method for Balanced Image Restoration*, 2012 [[Paper](https://ieeexplore.ieee.org/document/6226468)]
+* Zhengguo Li, Jinghong Zheng, **Susanto Rahardja**, *Detail-Enhanced Exposure Fusion*, 2012 [[Paper](https://ieeexplore.ieee.org/document/6236165)]
+* Alex Yong Sang Chia, **Susanto Rahardja**, Deepu Rajan, Maylor Karhang Leung, *A Split and Merge Based Ellipse Detector With Self-Correcting Capability*, 2011 [[Paper](https://ieeexplore.ieee.org/document/5665770)]
+* Wenxian Yang, Jianmin Zheng, Jianfei Cai, **Susanto Rahardja**, Chang Wen Chen, *Natural and Seamless Image Composition With Color Control*, 2009 [[Paper](https://ieeexplore.ieee.org/document/5161307)]
 
 ### IJCV
 
@@ -56,6 +63,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Yu Cheng, Yihao Ai, Bo Wang, Xinchao Wang, **Robby T. Tan**, *Bottom-up 2D pose estimation via dual anatomical centers for small-scale persons*, 2023 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001048)] [[Arxiv](https://arxiv.org/abs/2208.11975)]
 * Lu Liu, **Robby T. Tan**, *Human object interaction detection using two-direction spatial enhancement and exclusive object prior*, 2022 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006142)] [[Arxiv](https://arxiv.org/abs/2105.03089)]
 * Lu Liu, **Robby T. Tan**, *Certainty driven consistency loss on multi-teacher networks for semi-supervised learning*, 2021 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320321003277)] [[Arxiv](https://arxiv.org/abs/1901.05657)]
+* Jiawei Yang, **Susanto Rahardja**, Pasi Fränti, *Mean-shift outlier detection and filtering*, 2021 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320321000613)]
 * Liangchen Liu, **Arnold Wiliem**, Shaokang Chen, Brian C. Lovell, *What is the best way for extracting meaningful attributes from pictures?*, 2017 [[Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2016.10.034)] [[Arxiv](https://arxiv.org/abs/1610.04957)]
 * Kun Zhao, Azadeh Alavi, **Arnold Wiliem**, Brian C. Lovell, *Efficient clustering on Riemannian manifolds: A kernelised random projection approach*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003489)] [[Arxiv](https://arxiv.org/abs/1509.05536)]
 * Mohsen Sardari Zarchi, **Robby T. Tan**, Coert Van Gemeren, Amir Hassan Monadjemi, Remco C. Veltkamp, *Understanding image concepts using ISTOP model*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315004306)]
