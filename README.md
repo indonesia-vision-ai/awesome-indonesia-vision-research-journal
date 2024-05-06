@@ -19,31 +19,46 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### TPAMI
 
+* Wenhan Yang, **Robby T. Tan**, Shiqi Wang, Alex C. Kot, Jiaying Liu, *Learning to Remove Rain in Video With Self-Supervision*, 2024 [[Paper](https://ieeexplore.ieee.org/document/9815121)]
+* Yu Cheng, Bo Wang, **Robby T. Tan**, *Dual Networks Based 3D Multi-Person Pose Estimation From Monocular Video*, 2023 [[Paper](https://ieeexplore.ieee.org/document/9763389)] [[Arxiv](https://arxiv.org/abs/2205.00748)]
+* Wenhan Yang, **Robby T. Tan**, Jiashi Feng, Shiqi Wang, Bin Cheng, Jiaying Liu, *Recurrent Multi-Frame Deraining: Combining Physics Guidance and Adversarial Learning*, 2022 [[Paper](https://ieeexplore.ieee.org/document/9439949)]
+* Wenhan Yang, **Robby T. Tan**, Shiqi Wang, Yuming Fang, Jiaying Liu, *Single Image Deraining: From Model-Based to Data-Driven and Beyond*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9096521)] [[Arxiv](https://arxiv.org/abs/1912.07150)]
+* Wenhan Yang, **Robby T. Tan**, Jiashi Feng, Zongming Guo, Shuicheng Yan, Jiaying Liu, *Joint Rain Detection and Removal from a Single Image with Contextualized Deep Networks*, 2020 [[Paper](https://ieeexplore.ieee.org/document/8627954)]
 * **Muhammad Haris**, Greg Shakhnarovich, Norimichi Ukita, *Deep Back-ProjectiNetworks for Single Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9119166)]
 * **Muhammad Ghifary**, David Balduzzi, W. Bastiaan Kleijn, Mengjie Zhang, *Scatter Component Analysis: A Unified Framework for Domain Adaptation and Domain Generalization*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7542175)] [[Arxiv](https://arxiv.org/abs/1510.04373)]
+* Shaodi You, **Robby T. Tan**, Rei Kawakami, Yasuhiro Mukaigawa, Katsushi Ikeuchi, *Adherent Raindrop Modeling, Detectionand Removal in Video*, 2016 [[Paper](https://ieeexplore.ieee.org/document/7299675)]
 * **Novi Quadrianto**, Zoubin Ghahramani, *A Very Simple Safe-Bayesian Random Forest*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6920043)]
 * Sébastien Bratières, Novi Quadrianto, Zoubin Ghahramani, *GPstruct: Bayesian Structured Prediction Using Gaussian Processes*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6942234)]
 * **Novi Quadrianto**, Alexander J. Smola, Le Song, Tinne Tuytelaars, *Kernelized Sorting*, 2010 [[Paper](https://ieeexplore.ieee.org/document/5342424)]
 * **Christian Siagian**, Laurent Itti, *Rapid Biologically-Inspired Scene Classification Using Features Shared with Visual Attention*, 2007 [[Paper](https://ieeexplore.ieee.org/document/4042704)]
+* **Robby T. Tan**, Katsushi Ikeuchi, *Separating Reflection Components of Textured Surfaces Using a Single Image*, 2005 [[Paper](https://ieeexplore.ieee.org/document/1374865)]
+* **Robby T. Tan**, Ko Nishino, Katsushi Ikeuchi, *Separating Reflection Components Based on Chromaticity and Noise Analysis*, 2004 [[Paper](https://ieeexplore.ieee.org/document/1323805)]
 
 ### TIP
 
 * Muhammad Zaigham Zaheer, Jin Ha Lee, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *Stabilizing Adversarially Learned One-Class Novelty Detection Using Pseudo Anomalies*, 2022 [[Paper](https://ieeexplore.ieee.org/document/9887825)] [[Arxiv](https://arxiv.org/abs/2203.13716)]
+* Wending Yan, Lu Xu, Wenhan Yang, **Robby T. Tan**, *Feature-Aligned Video Raindrop Removal With Temporal Constraints*, 2022 [[Paper](https://ieeexplore.ieee.org/document/9769883)] [[Arxiv](https://arxiv.org/abs/2205.14574)]
 * Jen-Hui Chuang, Chih-Hui Ho, **Ardian Umam**, HsinYi Chen, Jenq-Neng Hwang, Tai-An Chen, *Geometry-Based Camera Calibration Using Closed-Form Solution of Principal Line*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9318550/)]
 * **Rizard Renanda Adhi Pramono**, Wen-Hsien Fang, Yie-Tarng Chen, *Relational Reasoning for Group Activity Recognition via Self-Attention Augmented Conditional Random Field*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9547058)]
 * Liangchen Liu, Feiping Nie, **Arnold Wiliem**, Zhihui Li, Teng Zhang, Brian C. Lovell, *Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8353196)]
 * Jun Young Cheong, **Christian Simon**, Chang-Su Kim, In Kyu Park, *Reflection Removal Under Fast Forward Camera Motion*, 2017 [[Paper](https://ieeexplore.ieee.org/document/8024024)]
+* Yu Li, **Robby T. Tan**, Xiaojie Guo, Jiangbo Lu, Michael S. Brown, *Single Image Rain Streak Decomposition Using Layer Priors*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7934436)]
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Quantitative Analysis of Human-Model Agreement in Visual Saliency Modeling: A Comparative Study*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6253254)]
 
 
 ### IJCV
 
+* Rei Kawakami, Hongxun Zhao, **Robby T. Tan**, Katsushi Ikeuchi, *Camera Spectral Sensitivity and White Balance Estimation from Sky Images*, 2013 [[Paper](https://link.springer.com/article/10.1007/s11263-013-0632-1)]
 * **Ketut Fundana**, Niels Chr. Overgaard, Anders Heyden, *Variational Segmentation of Image Sequences Using Region-Based Active Contours and Deformable Shape Priors*, 2008 [[Paper](https://link.springer.com/article/10.1007/s11263-008-0160-6)]
 
 ### Pattern Recognition
 
+* Yu Cheng, Yihao Ai, Bo Wang, Xinchao Wang, **Robby T. Tan**, *Bottom-up 2D pose estimation via dual anatomical centers for small-scale persons*, 2023 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001048)] [[Arxiv](https://arxiv.org/abs/2208.11975)]
+* Lu Liu, **Robby T. Tan**, *Human object interaction detection using two-direction spatial enhancement and exclusive object prior*, 2022 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006142)] [[Arxiv](https://arxiv.org/abs/2105.03089)]
+* Lu Liu, **Robby T. Tan**, *Certainty driven consistency loss on multi-teacher networks for semi-supervised learning*, 2021 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320321003277)] [[Arxiv](https://arxiv.org/abs/1901.05657)]
 * Liangchen Liu, **Arnold Wiliem**, Shaokang Chen, Brian C. Lovell, *What is the best way for extracting meaningful attributes from pictures?*, 2017 [[Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2016.10.034)] [[Arxiv](https://arxiv.org/abs/1610.04957)]
 * Kun Zhao, Azadeh Alavi, **Arnold Wiliem**, Brian C. Lovell, *Efficient clustering on Riemannian manifolds: A kernelised random projection approach*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003489)] [[Arxiv](https://arxiv.org/abs/1509.05536)]
+* Mohsen Sardari Zarchi, **Robby T. Tan**, Coert Van Gemeren, Amir Hassan Monadjemi, Remco C. Veltkamp, *Understanding image concepts using ISTOP model*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315004306)]
 * **Arnold Wiliem**, Conrad Sanderson, Yongkang Wong, Peter Hobson, Rodney F. Minchin, Brian C. Lovell, *Automatic classification of Human Epithelial type 2 cell Indirect Immunofluorescence images using Cell Pyramid Matching*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031300424X)] [[Arxiv](https://arxiv.org/abs/1403.3780)]
 * Yan Yang, **Arnold Wiliem**, Azadeh Alavi, Brian C. Lovell, Peter Hobson, *Visual learning and classification of human epithelial type 2 cell images through spontaneous activity patterns*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004238)]
 * Masoud Faraki, Mehrtash Tafazzoli Harandi, **Arnold Wiliem**, Brian C. Lovell, *Fisher tensors for classifying human epithelial cells*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004214)]
@@ -53,6 +68,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### CVIU
 
 * Yeonju Park, Sangmin Woo, Sumin Lee, **Muhammad Adi Nugroho**, Changick Kim, *Cross-modal alignment and translation for missing modality action recognition*, 2023 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223001856)]
+* Yu Li, Shaodi You, Michael S. Brown, **Robby T. Tan**, *Haze visibility enhancement: A Survey and quantitative benchmarking*, 2017 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314217301595)] [[Arxiv](https://arxiv.org/abs/1607.06235)]
+* Pascal Mettes, **Robby T. Tan**, Remco C. Veltkamp, *Water detection through spatio-temporal invariant descriptors*, 2017 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314216300273)] [[Arxiv](https://arxiv.org/abs/1511.00472)]
 * **Muhammad Rasyid Aqmar**, Yusuke Fujihara, Yasushi Makihara, Yasushi Yagi, *Gait recognition by fluctuations*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S107731421400112X)]
 * **Arnold Wiliem**, Vamsi Krishna Madasu, Wageeh W. Boles, Prasad K. D. V. Yarlagadda, *A suspicious behaviour detection using a context space model for smart surveillance systems*, 2012 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314211002001)]
 
