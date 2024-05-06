@@ -46,6 +46,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Liangchen Liu, Feiping Nie, **Arnold Wiliem**, Zhihui Li, Teng Zhang, Brian C. Lovell, *Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8353196)]
 * Jun Young Cheong, **Christian Simon**, Chang-Su Kim, In Kyu Park, *Reflection Removal Under Fast Forward Camera Motion*, 2017 [[Paper](https://ieeexplore.ieee.org/document/8024024)]
 * Yu Li, **Robby T. Tan**, Xiaojie Guo, Jiangbo Lu, Michael S. Brown, *Single Image Rain Streak Decomposition Using Layer Priors*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7934436)]
+* Jing-Ming Guo, **Heri Prasetyo**, *Content-Based Image Retrieval Using Features Extracted From Halftoning-Based Block Truncation Coding*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6960839)]
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Quantitative Analysis of Human-Model Agreement in Visual Saliency Modeling: A Comparative Study*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6253254)]
 * Hui Li Tan, Zhengguo Li, Yih Han Tan, **Susanto Rahardja**, Chuohao Yeo, *A Perceptually Relevant MSE-Based Image Quality Metric*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6562752)]
 * Jinghong Zheng, Zhengguo Li, Zijian Zhu, Shiqian Wu, **Susanto Rahardja**, *Hybrid Patching for a Sequence of Differently Exposed Images With Moving Objects*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6607144)]
