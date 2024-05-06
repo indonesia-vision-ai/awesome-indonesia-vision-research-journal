@@ -21,6 +21,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 * **Muhammad Haris**, Greg Shakhnarovich, Norimichi Ukita, *Deep Back-ProjectiNetworks for Single Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9119166)]
 * **Muhammad Ghifary**, David Balduzzi, W. Bastiaan Kleijn, Mengjie Zhang, *Scatter Component Analysis: A Unified Framework for Domain Adaptation and Domain Generalization*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7542175)] [[Arxiv](https://arxiv.org/abs/1510.04373)]
+* **Novi Quadrianto**, Zoubin Ghahramani, *A Very Simple Safe-Bayesian Random Forest*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6920043)]
+* Sébastien Bratières, Novi Quadrianto, Zoubin Ghahramani, *GPstruct: Bayesian Structured Prediction Using Gaussian Processes*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6942234)]
+* **Novi Quadrianto**, Alexander J. Smola, Le Song, Tinne Tuytelaars, *Kernelized Sorting*, 2010 [[Paper](https://ieeexplore.ieee.org/document/5342424)]
 * **Christian Siagian**, Laurent Itti, *Rapid Biologically-Inspired Scene Classification Using Features Shared with Visual Attention*, 2007 [[Paper](https://ieeexplore.ieee.org/document/4042704)]
 
 ### TIP
