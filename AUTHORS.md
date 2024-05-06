@@ -13,3 +13,4 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Muhammad Ghifary [[Profile Page](https://sites.google.com/site/mghifary/)] [[Google Scholar](https://scholar.google.co.id/citations?user=1Rx_BuAAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/140/7996.html)]
 - Muhammad Haris [[Profile Page](https://alterzero.github.io/)] [[Google Scholar](https://scholar.google.co.jp/citations?user=E6ayakEAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/142/1614-2.html)]
 - Novi Quadrianto [[Profile Page](https://profiles.sussex.ac.uk/p335583-novi-quadrianto)] [[Google Scholar](https://scholar.google.com/citations?user=I-rLzGcAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/06/580.html)]
+- Rasyid Aqmar [[Profile Page](https://mrasyidaqmar.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=JlqSw-MAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/90/8617.html)]
