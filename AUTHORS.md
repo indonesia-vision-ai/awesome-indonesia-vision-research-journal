@@ -10,3 +10,4 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Ketut Fundana [[Profile Page](https://www.researchgate.net/profile/Ketut-Fundana)] [[Google Scholar](https://scholar.google.com/citations?user=_3zQajsAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/18/40.html)]
 - Marcella Astrid [[Profile Page](https://sites.google.com/view/marcella-astrid)] [[Google Scholar](https://scholar.google.co.kr/citations?user=TXBGJhgAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/194/3058.html)]
 - Muhammad Adi Nugroho [[Google Scholar](https://scholar.google.com/citations?user=DM3tDI8AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/214/8126.html)]
+- Muhammad Ghifary [[Profile Page](https://sites.google.com/site/mghifary/)] [[Google Scholar](https://scholar.google.co.id/citations?user=1Rx_BuAAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/140/7996.html)]
