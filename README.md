@@ -7,7 +7,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ## Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Image Processing (TIP)
 - International Journal of Computer Vision (IJCV)
+- Pattern Recognition
 - Computer Vision and Image Understanding (CVIU)
 
 ## Authors
@@ -18,7 +20,13 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### TPAMI
 
 
+### TIP
+
+
 ### IJCV
+
+
+### Pattern Recognition
 
 
 ### CVIU
