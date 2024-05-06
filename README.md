@@ -22,6 +22,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### TIP
 
+* Jen-Hui Chuang, Chih-Hui Ho, **Ardian Umam**, HsinYi Chen, Jenq-Neng Hwang, Tai-An Chen,  *Geometry-Based Camera Calibration Using Closed-Form Solution of Principal Line*, 2021 [[Paper](https://ieeexplore.ieee.org/document/9318550/)]
 
 ### IJCV
 
