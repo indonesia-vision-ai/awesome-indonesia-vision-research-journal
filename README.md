@@ -46,6 +46,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### CVIU
 
+* Yeonju Park, Sangmin Woo, Sumin Lee, **Muhammad Adi Nugroho**, Changick Kim, *Cross-modal alignment and translation for missing modality action recognition*, 2023 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223001856)]
 * **Arnold Wiliem**, Vamsi Krishna Madasu, Wageeh W. Boles, Prasad K. D. V. Yarlagadda, *A suspicious behaviour detection using a context space model for smart surveillance systems*, 2012 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314211002001)]
 
 ## Contributors
