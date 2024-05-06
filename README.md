@@ -39,6 +39,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Arnold Wiliem**, Conrad Sanderson, Yongkang Wong, Peter Hobson, Rodney F. Minchin, Brian C. Lovell, *Automatic classification of Human Epithelial type 2 cell Indirect Immunofluorescence images using Cell Pyramid Matching*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031300424X) [Arxiv](https://arxiv.org/abs/1403.3780)]
 * Yan Yang, **Arnold Wiliem**, Azadeh Alavi, Brian C. Lovell, Peter Hobson, *Visual learning and classification of human epithelial type 2 cell images through spontaneous activity patterns*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004238)]
 * Masoud Faraki, Mehrtash Tafazzoli Harandi, **Arnold Wiliem**, Brian C. Lovell, *Fisher tensors for classifying human epithelial cells*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004214)]
+* **Indriyati Atmosukarto**, Katarzyna Wilamowska, Carrie Heike, Linda G. Shapiro, *3D object classification using salient point patterns with application to craniofacial research*, 2010 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320309004178)]
 
 
 ### CVIU
