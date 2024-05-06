@@ -31,6 +31,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### IJCV
 
+* **Ketut Fundana**, Niels Chr. Overgaard, Anders Heyden, *Variational Segmentation of Image Sequences Using Region-Based Active Contours and Deformable Shape Priors*, 2008 [[Paper](https://link.springer.com/article/10.1007/s11263-008-0160-6)]
 
 ### Pattern Recognition
 
