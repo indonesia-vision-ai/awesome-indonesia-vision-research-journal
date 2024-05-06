@@ -19,6 +19,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### TPAMI
 
+* **Christian Siagian**, Laurent Itti, *Rapid Biologically-Inspired Scene Classification Using Features Shared with Visual Attention*, 2007 [[Paper](https://ieeexplore.ieee.org/document/4042704)]
 
 ### TIP
 
