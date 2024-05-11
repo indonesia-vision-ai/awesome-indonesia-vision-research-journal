@@ -47,6 +47,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Christian Siagian**, Laurent Itti, *Rapid Biologically-Inspired Scene Classification Using Features Shared with Visual Attention*, 2007 [[Paper](https://ieeexplore.ieee.org/document/4042704)]
 * **Robby T. Tan**, Katsushi Ikeuchi, *Separating Reflection Components of Textured Surfaces Using a Single Image*, 2005 [[Paper](https://ieeexplore.ieee.org/document/1374865)]
 * **Robby T. Tan**, Ko Nishino, Katsushi Ikeuchi, *Separating Reflection Components Based on Chromaticity and Noise Analysis*, 2004 [[Paper](https://ieeexplore.ieee.org/document/1323805)]
+* Pascal Matsakis, James M. Keller, **Ozy Sjahputera**, Jonathon Marjamaa, *The Use of Force Histograms for Affine-Invariant Relative Position Description*, 2004 [[Paper](https://ieeexplore.ieee.org/abstract/document/1261075)]
 
 ### TIP
 
