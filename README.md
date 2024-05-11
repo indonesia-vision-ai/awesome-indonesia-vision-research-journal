@@ -59,11 +59,15 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * ShuMin Liu, Jiajia Chen, Ye Ai, **Susanto Rahardja**, *An Optimized Quantization Constraints Set for Image Restoration and its GPU Implementation*, 2020 [[Paper](https://ieeexplore.ieee.org/document/9075407)]
 
 #### 2010-2019
+* Tingtian Li, Daniel Pak-Kong Lun, Yuk-Hee Chan, **Budianto**, *Robust Reflection Removal Based on Light Field Imaging*, 2019 [[Paper](https://ieeexplore.ieee.org/document/8531774)]
 * Liangchen Liu, Feiping Nie, **Arnold Wiliem**, Zhihui Li, Teng Zhang, Brian C. Lovell, *Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8353196)]
+* **Budianto**, Daniel Pak-Kong Lun, Yuk-Hee Chan, *Robust Single-Shot Fringe Projection Profilometry Based on Morphological Component Analysis*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8417427)]
 * Jun Young Cheong, **Christian Simon**, Chang-Su Kim, In Kyu Park, *Reflection Removal Under Fast Forward Camera Motion*, 2017 [[Paper](https://ieeexplore.ieee.org/document/8024024)]
 * Yu Li, **Robby T. Tan**, Xiaojie Guo, Jiangbo Lu, Michael S. Brown, *Single Image Rain Streak Decomposition Using Layer Priors*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7934436)]
 * Jin Tang, Jian Luo, **Tardi Tjahjadi**, Fan Guo, *Robust Arbitrary-View Gait Recognition Based on 3D Partial Similarity Matching*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7574352)]
+* **Budianto**, Daniel Pak-Kong Lun, *Robust Fringe Projection Profilometry via Sparse Representation*, 2016 [[Paper](https://ieeexplore.ieee.org/document/7407374)]
 * Jing-Ming Guo, **Heri Prasetyo**, *Content-Based Image Retrieval Using Features Extracted From Halftoning-Based Block Truncation Coding*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6960839)]
+* **Budianto**, Daniel Pak-Kong Lun, *Inpainting for Fringe Projection Profilometry Based on Geometrically Guided Iterative Regularization*, 2015 [[Paper](https://ieeexplore.ieee.org/document/7274711)]
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Quantitative Analysis of Human-Model Agreement in Visual Saliency Modeling: A Comparative Study*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6253254)]
 * Hui Li Tan, Zhengguo Li, Yih Han Tan, **Susanto Rahardja**, Chuohao Yeo, *A Perceptually Relevant MSE-Based Image Quality Metric*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6562752)]
 * Jinghong Zheng, Zhengguo Li, Zijian Zhu, Shiqian Wu, **Susanto Rahardja**, *Hybrid Patching for a Sequence of Differently Exposed Images With Moving Objects*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6607144)]
