@@ -10,6 +10,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Christian Simon [[Profile Page](https://chrysts.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/10/3925.html)]
 - Dicky Nauli Sihite [[Google Scholar](https://scholar.google.com/citations?user=h-OIAIAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/116/6482.html)]
 - Elyta Widyaningrum [[DBLP](https://dblp.org/pid/248/1221.html)]
+- Fadil Santosa [[Google Scholar](https://scholar.google.com/citations?user=RHDRwNUAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/00/5364.html)]
 - Henry Johan [[Google Scholar](https://scholar.google.com/citations?user=HAWI_ogAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/56/5589.html)]
 - Heri Prasetyo [[Google Scholar](https://scholar.google.co.id/citations?user=vAk-cQ0AAAAJ)] [[DBLP](https://dblp.org/pid/136/7682.html)]
 - Indriyati Atmosukarto [[Profile Page](https://sites.google.com/site/indriatmosukarto/)] [[Google Scholar](https://scholar.google.com.sg/citations?user=rnOSpKcAAAAJ)] [[DBLP](https://dblp.org/pid/55/6132.html)]
