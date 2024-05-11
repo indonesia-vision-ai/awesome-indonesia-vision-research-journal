@@ -16,6 +16,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Heri Prasetyo [[Google Scholar](https://scholar.google.co.id/citations?user=vAk-cQ0AAAAJ)] [[DBLP](https://dblp.org/pid/136/7682.html)]
 - Indriyati Atmosukarto [[Profile Page](https://sites.google.com/site/indriatmosukarto/)] [[Google Scholar](https://scholar.google.com.sg/citations?user=rnOSpKcAAAAJ)] [[DBLP](https://dblp.org/pid/55/6132.html)]
 - Imam Mustafa Kamal [[Google Scholar](https://scholar.google.com/citations?user=F5JIBOMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/205/8660.html)]
+- Jason M. Saragih [[Google Scholar](https://scholar.google.com/citations?user=ss-IvjMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/21/3590.html)]
 - Ketut Fundana [[Profile Page](https://www.researchgate.net/profile/Ketut-Fundana)] [[Google Scholar](https://scholar.google.com/citations?user=_3zQajsAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/18/40.html)]
 - Marcella Astrid [[Profile Page](https://sites.google.com/view/marcella-astrid)] [[Google Scholar](https://scholar.google.co.kr/citations?user=TXBGJhgAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/194/3058.html)]
 - Muhammad Adi Nugroho [[Google Scholar](https://scholar.google.com/citations?user=DM3tDI8AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/214/8126.html)]
