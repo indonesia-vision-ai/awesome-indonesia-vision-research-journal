@@ -72,6 +72,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 #### 2000-2009
 * Wenxian Yang, Jianmin Zheng, Jianfei Cai, **Susanto Rahardja**, Chang Wen Chen, *Natural and Seamless Image Composition With Color Control*, 2009 [[Paper](https://ieeexplore.ieee.org/document/5161307)]
 
+#### 1990-1999
+* Yuying Li, **Fadil Santosa**, *A computational algorithm for minimizing total variation in image restoration*, 1996 [[Paper](https://ieeexplore.ieee.org/document/503914)]
+
 ### IJCV
 
 #### 2010-2019
