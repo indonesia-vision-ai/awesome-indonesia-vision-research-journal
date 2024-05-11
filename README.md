@@ -89,6 +89,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Imam Mustafa Kamal**, Hyerim Bae, *Super-encoder with cooperative autoencoder networks*, 2022 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000437)]
 * Lu Liu, **Robby T. Tan**, *Certainty driven consistency loss on multi-teacher networks for semi-supervised learning*, 2021 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320321003277)] [[Arxiv](https://arxiv.org/abs/1901.05657)]
 * Jiawei Yang, **Susanto Rahardja**, Pasi Fränti, *Mean-shift outlier detection and filtering*, 2021 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320321000613)]
+* **Elyta Widyaningrum**, Ravi Y. Peters, Roderik C. Lindenbergh, *Building outline extraction from ALS point clouds using medial axis transform descriptors*, 2020 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320320302508)]
 
 #### 2010-2019
 * Liangchen Liu, **Arnold Wiliem**, Shaokang Chen, Brian C. Lovell, *What is the best way for extracting meaningful attributes from pictures?*, 2017 [[Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2016.10.034)] [[Arxiv](https://arxiv.org/abs/1610.04957)]
