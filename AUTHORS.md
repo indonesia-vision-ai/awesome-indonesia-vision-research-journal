@@ -21,5 +21,6 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Rasyid Aqmar [[Profile Page](https://mrasyidaqmar.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=JlqSw-MAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/90/8617.html)]
 - Rizard Renanda Adhi Pramono [[Google Scholar](https://scholar.google.com/citations?user=W1FtdzYAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/245/8789.html)]
 - Robby T. Tan [[Profile Page](https://tanrobby.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/t/RobbyTTan.html)]
+- Rudy Cahyadi Hario Pribadi [[Google Scholar](https://scholar.google.com/citations?user=kZZWmukAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/185/4347.html)]
 - Susanto Rahardja [[Profile Page](https://www.singaporetech.edu.sg/directory/faculty/susanto-rahardja)] [[Google Scholar](https://scholar.google.com/citations?user=OdkA4jMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/98/3034.html)]
 - Williem [[Profile Page](https://williem.dev)] [[Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/146/7535.html)]
