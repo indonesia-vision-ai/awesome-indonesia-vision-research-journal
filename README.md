@@ -25,6 +25,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### TPAMI
 
 #### 2020-now
+* Seungwoo Jeong, Wonjun Ko, **Ahmad Wisnu Mulyadi**, Heung-Il Suk, *Deep Efficient Continuous Manifold Learning for Time Series Modeling*, 2024 [[Paper](https://ieeexplore.ieee.org/document/10266751?denied=)] [[Arxiv](https://arxiv.org/abs/2112.03379)]
 * Wenhan Yang, **Robby T. Tan**, Shiqi Wang, Alex C. Kot, Jiaying Liu, *Learning to Remove Rain in Video With Self-Supervision*, 2024 [[Paper](https://ieeexplore.ieee.org/document/9815121)]
 * Yu Cheng, Bo Wang, **Robby T. Tan**, *Dual Networks Based 3D Multi-Person Pose Estimation From Monocular Video*, 2023 [[Paper](https://ieeexplore.ieee.org/document/9763389)] [[Arxiv](https://arxiv.org/abs/2205.00748)]
 * Wenhan Yang, **Robby T. Tan**, Jiashi Feng, Shiqi Wang, Bin Cheng, Jiaying Liu, *Recurrent Multi-Frame Deraining: Combining Physics Guidance and Adversarial Learning*, 2022 [[Paper](https://ieeexplore.ieee.org/document/9439949)]
