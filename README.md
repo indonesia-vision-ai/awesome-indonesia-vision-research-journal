@@ -90,6 +90,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 #### 2010-2019
 * David Pickup, Xianfang Sun, Paul L. Rosin, Ralph R. Martin, Z. Cheng, Zhouhui Lian, Masaki Aono, A. Ben Hamza, Alexander M. Bronstein, Michael M. Bronstein, S. Bu, Umberto Castellani, S. Cheng, Valeria Garro, Andrea Giachetti, Afzal Godil, Luca Isaia, J. Han, **Henry Johan**, L. Lai, Bo Li, Chen-Feng Li, Haisheng Li, Roee Litman, X. Liu, Z. Liu, Yijuan Lu, Li Sun, Gary K. L. Tam, Atsushi Tatsuma, Jianbo Ye, *Shape Retrieval of Non-rigid 3D Human Models*, 2016 [[Paper](https://link.springer.com/article/10.1007/s11263-016-0903-8)] [[Arxiv](https://arxiv.org/abs/2003.08763)]
 * Rei Kawakami, Hongxun Zhao, **Robby T. Tan**, Katsushi Ikeuchi, *Camera Spectral Sensitivity and White Balance Estimation from Sky Images*, 2013 [[Paper](https://link.springer.com/article/10.1007/s11263-013-0632-1)]
+* **Jason M. Saragih**, Simon Lucey, Jeffrey F. Cohn, *Deformable Model Fitting by Regularized Landmark Mean-Shift*, 2011 [[Paper](https://link.springer.com/article/10.1007/s11263-010-0380-4)]
 
 #### 2000-2009
 * **Ketut Fundana**, Niels Chr. Overgaard, Anders Heyden, *Variational Segmentation of Image Sequences Using Region-Based Active Contours and Deformable Shape Priors*, 2008 [[Paper](https://link.springer.com/article/10.1007/s11263-008-0160-6)]
@@ -114,6 +115,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Mohsen Sardari Zarchi, **Robby T. Tan**, Coert Van Gemeren, Amir Hassan Monadjemi, Remco C. Veltkamp, *Understanding image concepts using ISTOP model*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315004306)]
 * **Rudy Cahyadi Hario Pribadi**, Hsing-Kuo Pao, *Sparse tree structured representation for re-identification*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320316300838)]
 * Jian Luo, Jin Tang, **Tardi Tjahjadi**, Xiaoming Xiao, *Robust arbitrary view gait recognition based on parametric 3D human body reconstruction and virtual posture synthesis*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320316301145)]
+* Lili Pan, **Jason M. Saragih**, Wen-Sheng Chu, *Mixture of grouped regressors and its application to visual mapping*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003957)]
 * Sruti Das Choudhury, **Tardi Tjahjadi**, *Robust view-invariant multiscale gait recognition*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320314003835)]
 * Xijian Fan, **Tardi Tjahjadi**, *A spatial-temporal framework based on histogram of gradients and optical flow for facial expression recognition in video sequences*, 2015 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315001648)]
 * **Arnold Wiliem**, Conrad Sanderson, Yongkang Wong, Peter Hobson, Rodney F. Minchin, Brian C. Lovell, *Automatic classification of Human Epithelial type 2 cell Indirect Immunofluorescence images using Cell Pyramid Matching*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031300424X)] [[Arxiv](https://arxiv.org/abs/1403.3780)]
@@ -125,6 +127,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Dongjoe Shin, **Tardi Tjahjadi**, *Clique descriptor of affine invariant regions for robust wide baseline image matching*, 2010 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031000186X)]
 
 #### 2000-2009
+* **Jason M. Saragih**, Roland Göcke, *Learning AAM fitting through simulation*, 2009 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320309001514)]
 * Yu-Hua Gu, **Tardi Tjahjadi**, *Detecting and locating landmine fields from vehicle- and air-borne measured IR Images*, 2002 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000201)]
 * Yu-Hua Gu, **Tardi Tjahjadi**, *Coarse-to-fine planar object identification using invariant curve features and B-spline modeling*, 2000 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320399001314)]
 
