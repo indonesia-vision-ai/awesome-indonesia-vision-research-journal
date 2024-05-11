@@ -62,16 +62,21 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Liangchen Liu, Feiping Nie, **Arnold Wiliem**, Zhihui Li, Teng Zhang, Brian C. Lovell, *Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery*, 2018 [[Paper](https://ieeexplore.ieee.org/document/8353196)]
 * Jun Young Cheong, **Christian Simon**, Chang-Su Kim, In Kyu Park, *Reflection Removal Under Fast Forward Camera Motion*, 2017 [[Paper](https://ieeexplore.ieee.org/document/8024024)]
 * Yu Li, **Robby T. Tan**, Xiaojie Guo, Jiangbo Lu, Michael S. Brown, *Single Image Rain Streak Decomposition Using Layer Priors*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7934436)]
+* Jin Tang, Jian Luo, **Tardi Tjahjadi**, Fan Guo, *Robust Arbitrary-View Gait Recognition Based on 3D Partial Similarity Matching*, 2017 [[Paper](https://ieeexplore.ieee.org/document/7574352)]
 * Jing-Ming Guo, **Heri Prasetyo**, *Content-Based Image Retrieval Using Features Extracted From Halftoning-Based Block Truncation Coding*, 2015 [[Paper](https://ieeexplore.ieee.org/document/6960839)]
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Quantitative Analysis of Human-Model Agreement in Visual Saliency Modeling: A Comparative Study*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6253254)]
 * Hui Li Tan, Zhengguo Li, Yih Han Tan, **Susanto Rahardja**, Chuohao Yeo, *A Perceptually Relevant MSE-Based Image Quality Metric*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6562752)]
 * Jinghong Zheng, Zhengguo Li, Zijian Zhu, Shiqian Wu, **Susanto Rahardja**, *Hybrid Patching for a Sequence of Differently Exposed Images With Moving Objects*, 2013 [[Paper](https://ieeexplore.ieee.org/document/6607144)]
 * Shoulie Xie, **Susanto Rahardja**, *Alternating Direction Method for Balanced Image Restoration*, 2012 [[Paper](https://ieeexplore.ieee.org/document/6226468)]
 * Zhengguo Li, Jinghong Zheng, **Susanto Rahardja**, *Detail-Enhanced Exposure Fusion*, 2012 [[Paper](https://ieeexplore.ieee.org/document/6236165)]
+* Turgay Çelik, **Tardi Tjahjadi**, *Automatic Image Equalization and Contrast Enhancement Using Gaussian Mixture Modeling*, 2012 [[Paper](https://ieeexplore.ieee.org/document/5957283)]
 * Alex Yong Sang Chia, **Susanto Rahardja**, Deepu Rajan, Maylor Karhang Leung, *A Split and Merge Based Ellipse Detector With Self-Correcting Capability*, 2011 [[Paper](https://ieeexplore.ieee.org/document/5665770)]
+* Turgay Çelik, **Tardi Tjahjadi**, *Contextual and Variational Contrast Enhancement*, 2011 [[Paper](https://ieeexplore.ieee.org/document/5773086)]
 
 #### 2000-2009
 * Wenxian Yang, Jianmin Zheng, Jianfei Cai, **Susanto Rahardja**, Chang Wen Chen, *Natural and Seamless Image Composition With Color Control*, 2009 [[Paper](https://ieeexplore.ieee.org/document/5161307)]
+* Dongjoe Shin, **Tardi Tjahjadi**, *Local Hull-Based Surface Construction of Volumetric Data From Silhouettes*, 2008 [[Paper](https://ieeexplore.ieee.org/document/4558418?denied=)]
+* Kung-Hao Liang, **Tardi Tjahjadi**, *Adaptive scale fixing for multiscale texture segmentation*, 2006 [[Paper](https://ieeexplore.ieee.org/document/1556642)]
 
 #### 1990-1999
 * Yuying Li, **Fadil Santosa**, *A computational algorithm for minimizing total variation in image restoration*, 1996 [[Paper](https://ieeexplore.ieee.org/document/503914)]
@@ -89,23 +94,40 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 #### 2020-now
 * Yu Cheng, Yihao Ai, Bo Wang, Xinchao Wang, **Robby T. Tan**, *Bottom-up 2D pose estimation via dual anatomical centers for small-scale persons*, 2023 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001048)] [[Arxiv](https://arxiv.org/abs/2208.11975)]
+* Tankun Li, Kwok-Leung Chan, **Tardi Tjahjadi**, *Multi-Scale correlation module for video-based facial expression recognition in the wild*, 2023 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323003898)]
 * Lu Liu, **Robby T. Tan**, *Human object interaction detection using two-direction spatial enhancement and exclusive object prior*, 2022 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006142)] [[Arxiv](https://arxiv.org/abs/2105.03089)]
 * **Imam Mustafa Kamal**, Hyerim Bae, *Super-encoder with cooperative autoencoder networks*, 2022 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000437)]
 * Lu Liu, **Robby T. Tan**, *Certainty driven consistency loss on multi-teacher networks for semi-supervised learning*, 2021 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320321003277)] [[Arxiv](https://arxiv.org/abs/1901.05657)]
 * Jiawei Yang, **Susanto Rahardja**, Pasi Fränti, *Mean-shift outlier detection and filtering*, 2021 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320321000613)]
 * Zebin Yang, Aijun Zhang, **Agus Sudjianto**, *GAMI-Net: An explainable neural network based on generalized additive models with structured interactions*, 2021 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321003484)] [[Arxiv](https://arxiv.org/abs/2003.07132)
+* Wei Li, Alex Noel Joseph Raj, **Tardi Tjahjadi**, Zhemin Zhuan, *Digital hair removal by deep learning for skin lesion segmentation*, 2021 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321001813)]
 * **Elyta Widyaningrum**, Ravi Y. Peters, Roderik C. Lindenbergh, *Building outline extraction from ALS point clouds using medial axis transform descriptors*, 2020 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320320302508)]
 
 #### 2010-2019
 * Liangchen Liu, **Arnold Wiliem**, Shaokang Chen, Brian C. Lovell, *What is the best way for extracting meaningful attributes from pictures?*, 2017 [[Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2016.10.034)] [[Arxiv](https://arxiv.org/abs/1610.04957)]
+* Xijian Fan, **Tardi Tjahjadi**, *A dynamic framework based on local Zernike moment and motion history image for facial expression recognition*, 2017 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320316303892)]
 * Kun Zhao, Azadeh Alavi, **Arnold Wiliem**, Brian C. Lovell, *Efficient clustering on Riemannian manifolds: A kernelised random projection approach*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003489)] [[Arxiv](https://arxiv.org/abs/1509.05536)]
 * Mohsen Sardari Zarchi, **Robby T. Tan**, Coert Van Gemeren, Amir Hassan Monadjemi, Remco C. Veltkamp, *Understanding image concepts using ISTOP model*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315004306)]
 * **Rudy Cahyadi Hario Pribadi**, Hsing-Kuo Pao, *Sparse tree structured representation for re-identification*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320316300838)]
+* Jian Luo, Jin Tang, **Tardi Tjahjadi**, Xiaoming Xiao, *Robust arbitrary view gait recognition based on parametric 3D human body reconstruction and virtual posture synthesis*, 2016 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320316301145)]
+* Sruti Das Choudhury, **Tardi Tjahjadi**, *Robust view-invariant multiscale gait recognition*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320314003835)]
+* Xijian Fan, **Tardi Tjahjadi**, *A spatial-temporal framework based on histogram of gradients and optical flow for facial expression recognition in video sequences*, 2015 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315001648)]
 * **Arnold Wiliem**, Conrad Sanderson, Yongkang Wong, Peter Hobson, Rodney F. Minchin, Brian C. Lovell, *Automatic classification of Human Epithelial type 2 cell Indirect Immunofluorescence images using Cell Pyramid Matching*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031300424X)] [[Arxiv](https://arxiv.org/abs/1403.3780)]
 * Yan Yang, **Arnold Wiliem**, Azadeh Alavi, Brian C. Lovell, Peter Hobson, *Visual learning and classification of human epithelial type 2 cell images through spontaneous activity patterns*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004238)]
 * Masoud Faraki, Mehrtash Tafazzoli Harandi, **Arnold Wiliem**, Brian C. Lovell, *Fisher tensors for classifying human epithelial cells*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313004214)]
+* Malik Morshidi, **Tardi Tjahjadi**, *Gravity optimised particle filter for hand tracking*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313002872)]
+* Sruti Das Choudhury, **Tardi Tjahjadi**, *Silhouette-based gait recognition using Procrustes shape analysis and elliptic Fourier descriptors*, 2012 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320312001100)]
 * **Indriyati Atmosukarto**, Katarzyna Wilamowska, Carrie Heike, Linda G. Shapiro, *3D object classification using salient point patterns with application to craniofacial research*, 2010 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320309004178)]
+* Dongjoe Shin, **Tardi Tjahjadi**, *Clique descriptor of affine invariant regions for robust wide baseline image matching*, 2010 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031000186X)]
 
+#### 2000-2009
+* Yu-Hua Gu, **Tardi Tjahjadi**, *Detecting and locating landmine fields from vehicle- and air-borne measured IR Images*, 2002 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320302000201)]
+* Yu-Hua Gu, **Tardi Tjahjadi**, *Coarse-to-fine planar object identification using invariant curve features and B-spline modeling*, 2000 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320399001314)]
+
+
+#### 1990-1999
+* Kung-Hao Liang, **Tardi Tjahjadi**, Yee-Hong Yang, *Roof edge detection using regularized cubic b-spline fitting*, 1997 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320396001215)]
+* R. Dale-Jones, **Tardi Tjahjadi**, *A study and modification of the local histogram equalization algorithm*, 1993 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/003132039390143K)]
 
 ### CVIU
 
@@ -118,7 +140,10 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Bo Li, Yijuan Lu, Chunyuan Li, Afzal Godil, Tobias Schreck, Masaki Aono, Martin Burtscher, Qiang Chen, Nihad Karim Chowdhury, Bin Fang, Hongbo Fu, Takahiko Furuya, Haisheng Li, Jianzhuang Liu, **Henry Johan**, Ryuichi Kosaka, Hitoshi Koyanagi, Ryutarou Ohbuchi, Atsushi Tatsuma, Yajuan Wan, Chaoli Zhang, Changqing Zou, *A comparison of 3D shape retrieval methods based on a large-scale benchmark supporting multimodal queries*, 2015 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314214002100)]
 * Bo Li, Yijuan Lu, Afzal Godil, Tobias Schreck, Benjamin Bustos, Alfredo Ferreira, Takahiko Furuya, Manuel J. Fonseca, **Henry Johan**, Takahiro Matsuda, Ryutarou Ohbuchi, Pedro B. Pascoal, Jose M. Saavedra, *A comparison of methods for sketch-based 3D shape retrieval*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314213002282)]
 * **Muhammad Rasyid Aqmar**, Yusuke Fujihara, Yasushi Makihara, Yasushi Yagi, *Gait recognition by fluctuations*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S107731421400112X)]
+* Sruti Das Choudhury, **Tardi Tjahjadi**, *Gait recognition based on shape and motion analysis of silhouette contours*, 2013 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314213001537)]
 * **Arnold Wiliem**, Vamsi Krishna Madasu, Wageeh W. Boles, Prasad K. D. V. Yarlagadda, *A suspicious behaviour detection using a context space model for smart surveillance systems*, 2012 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314211002001)]
+* Turgay Çelik, **Tardi Tjahjadi**, *Adaptive colour constancy algorithm using discrete wavelet transform*, 2012 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314211002712)]
+* Turgay Çelik, **Tardi Tjahjadi**, *Unsupervised colour image segmentation using dual-tree complex wavelet transform*, 2010 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314210000676)]
 
 ## Contributors
 
