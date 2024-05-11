@@ -74,6 +74,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### IJCV
 
 #### 2010-2019
+* David Pickup, Xianfang Sun, Paul L. Rosin, Ralph R. Martin, Z. Cheng, Zhouhui Lian, Masaki Aono, A. Ben Hamza, Alexander M. Bronstein, Michael M. Bronstein, S. Bu, Umberto Castellani, S. Cheng, Valeria Garro, Andrea Giachetti, Afzal Godil, Luca Isaia, J. Han, **Henry Johan**, L. Lai, Bo Li, Chen-Feng Li, Haisheng Li, Roee Litman, X. Liu, Z. Liu, Yijuan Lu, Li Sun, Gary K. L. Tam, Atsushi Tatsuma, Jianbo Ye, *Shape Retrieval of Non-rigid 3D Human Models* [[Paper](https://link.springer.com/article/10.1007/s11263-016-0903-8)] [[Arxiv](https://arxiv.org/abs/2003.08763)]
 * Rei Kawakami, Hongxun Zhao, **Robby T. Tan**, Katsushi Ikeuchi, *Camera Spectral Sensitivity and White Balance Estimation from Sky Images*, 2013 [[Paper](https://link.springer.com/article/10.1007/s11263-013-0632-1)]
 
 #### 2000-2009
@@ -105,6 +106,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 #### 2010-2019
 * Yu Li, Shaodi You, Michael S. Brown, **Robby T. Tan**, *Haze visibility enhancement: A Survey and quantitative benchmarking*, 2017 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314217301595)] [[Arxiv](https://arxiv.org/abs/1607.06235)]
 * Pascal Mettes, **Robby T. Tan**, Remco C. Veltkamp, *Water detection through spatio-temporal invariant descriptors*, 2017 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314216300273)] [[Arxiv](https://arxiv.org/abs/1511.00472)]
+* Bo Li, Yijuan Lu, Chunyuan Li, Afzal Godil, Tobias Schreck, Masaki Aono, Martin Burtscher, Qiang Chen, Nihad Karim Chowdhury, Bin Fang, Hongbo Fu, Takahiko Furuya, Haisheng Li, Jianzhuang Liu, **Henry Johan**, Ryuichi Kosaka, Hitoshi Koyanagi, Ryutarou Ohbuchi, Atsushi Tatsuma, Yajuan Wan, Chaoli Zhang, Changqing Zou, *A comparison of 3D shape retrieval methods based on a large-scale benchmark supporting multimodal queries* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314214002100)]
+* Bo Li, Yijuan Lu, Afzal Godil, Tobias Schreck, Benjamin Bustos, Alfredo Ferreira, Takahiko Furuya, Manuel J. Fonseca, **Henry Johan**, Takahiro Matsuda, Ryutarou Ohbuchi, Pedro B. Pascoal, Jose M. Saavedra, *A comparison of methods for sketch-based 3D shape retrieval* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314213002282)]
 * **Muhammad Rasyid Aqmar**, Yusuke Fujihara, Yasushi Makihara, Yasushi Yagi, *Gait recognition by fluctuations*, 2014 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S107731421400112X)]
 * **Arnold Wiliem**, Vamsi Krishna Madasu, Wageeh W. Boles, Prasad K. D. V. Yarlagadda, *A suspicious behaviour detection using a context space model for smart surveillance systems*, 2012 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314211002001)]
 
