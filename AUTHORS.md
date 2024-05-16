@@ -31,3 +31,10 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Susanto Rahardja [[Profile Page](https://www.singaporetech.edu.sg/directory/faculty/susanto-rahardja)] [[Google Scholar](https://scholar.google.com/citations?user=OdkA4jMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/98/3034.html)]
 - Tardi Tjahjadi [[Profile Page](https://warwick.ac.uk/fac/sci/eng/people/tardi_tjahjadi)] [[DBLP](https://dblp.org/pid/t/TardiTjahjadi.html)]
 - Williem [[Profile Page](https://williem.dev)] [[Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/146/7535.html)]
+
+## Authors by Residence
+
+The residences of authors are collected from publicly available sources such as Google Scholar and LinkedIn. You can view the data [here](./data/authors_journals.json)
+
+<img width="991" alt="image" src="https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-journal/assets/23333483/9f00dca6-ce95-44f0-95e0-8b1e5af7bf7b">
+
