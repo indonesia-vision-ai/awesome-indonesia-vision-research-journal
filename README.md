@@ -158,6 +158,13 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/INERTIA2001">
+            <img src="https://avatars.githubusercontent.com/u/39295357?v=4" width="100;" alt="INERTIA2001"/>
+            <br />
+            <sub><b>William G</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/williem-scientist">
             <img src="https://avatars.githubusercontent.com/u/23333483?v=4" width="100;" alt="williem-scientist"/>
             <br />
